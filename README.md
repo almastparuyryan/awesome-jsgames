@@ -191,7 +191,7 @@
 - [Aseprite](https://www.aseprite.org) - Animated sprite editor & pixel art tool.
 - [Piskel](https://github.com/piskelapp/piskel) - A free online editor for animated sprites & pixel art.
 - [Sleditor](https://sleditor.com/) - A web-based editor for creating and testing high-performance graphics and audio scripts in a web browser.
-
+- [NixieFX](https://nixiefx.com/) - A browser-based Three.js particle editor and runtime for creating real-time visual effects for HTML5 web games.
 ### Generators
 - [Stitches](https://draeton.github.io/stitches) - An HTML5 sprite sheet generator.
 - [Audiosprite](https://github.com/tonistiigi/audiosprite) - A ffmpeg wrapper that will take in multiple audio files and combines them into a single file.
